@@ -2,8 +2,8 @@
 //  main.c
 //  算法实验2
 //
-//  Created by 曹琬璐 on 2018/5/30.
-//  Copyright © 2018年 曹琬璐. All rights reserved.
+//  Created by claire on 2018/5/30.
+//  Copyright © 2018年 claire. All rights reserved.
 //
 
 #include <stdio.h>
